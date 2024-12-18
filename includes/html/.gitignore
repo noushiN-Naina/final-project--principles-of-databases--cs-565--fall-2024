@@ -1,9 +1,9 @@
 
-!README.md
-!.gitignore
+# !README.md
+# !.gitignore
 
-!index.php
+# !index.php
 
-!css/
-!mysql/
-!includes/
+# !css/
+# !mysql/
+# !includes/
